@@ -59,6 +59,8 @@ include("GraphColoring.jl")
 include("MISP.jl")
 include("MKP.jl")
 include("TSP.jl")
+include("bipartition.jl")
+include("beam_bip.jl")
 
 include("../test/tests.jl")
 
